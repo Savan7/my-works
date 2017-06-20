@@ -1,0 +1,23 @@
+.video{
+	margin-left:5px;
+	font: normal 12px arial;
+	color: #2c2b2b;
+	line-height:1.8;
+}
+.video:hover{
+	cursor:pointer;
+	color: #1772af;
+}
+.open{
+	//color:red;
+	color: #1772af;
+}
+.active:before {
+	content:'-';
+	padding-right: 5px;
+	
+}
+.notactive:before{
+	content:'+';
+	padding-right: 5px;
+}
