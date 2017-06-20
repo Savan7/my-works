@@ -1,7 +1,7 @@
 //app name: KPI Calculator
 //date: 2016 06 11
 //author: Valdas
-//email: zaidimas7@gmail.com
+//email: valdasns@gmail.com
 //version: v1.2;
 package kpicalc;
 
