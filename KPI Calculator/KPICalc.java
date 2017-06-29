@@ -1,5 +1,4 @@
 //app name: KPI Calculator
-//date: 2016 06 11
 //author: Valdas
 //email: valdasns@gmail.com
 //version: v1.2;
